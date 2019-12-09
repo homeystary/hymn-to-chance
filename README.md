@@ -1,2 +1,2 @@
 # hymn-to-chance
-Animated score for "hymn to chance" by Steven Hixson
+Code for the "hymn to chance" animated score, by Steven Hixson
